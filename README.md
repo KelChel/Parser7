@@ -1,4 +1,8 @@
 # Url-Hunter
-Simple and light url parser with Flask-powered web UI.
-# Usage
-[python3 main.py] This will run server on http://127.0.0.1:8080.
+Простой и легкий парсер URL-адресов с веб-интерфейсом на базе Flask.
+# Как использовать
+flask
+bs4
+requests
+# зайти
+http://127.0.0.1:8080.
